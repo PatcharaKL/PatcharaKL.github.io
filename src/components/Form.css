@@ -1,0 +1,19 @@
+#form {
+  background-color: white;
+  border-radius: 15px;
+  padding: 0px 30px;
+}
+body {
+  background: #f8f4f4;
+}
+.nav-pills .nav-link {
+  color: gray;
+  font-weight: 500;
+}
+
+.nav-pills .nav-item.show .nav-link,
+.nav-pills .nav-link.active {
+  color: #fff;
+  background-color: #485484;
+  border-color: none;
+}
